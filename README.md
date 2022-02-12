@@ -1,16 +1,9 @@
-# Basic Sample Hardhat Project
+This is my first contact with writing smart contracts. I wanted to learn and study some theory but I decided to start doing things, try the tools, make mistakes, among other things.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+With this project, I learned about Hardhat, testing, Ropsten, Ropsten Ethereum Faucet, OpenZeppelin and of course some Solidity.
 
-Try running some of the following tasks:
+I want to keep learning and coding more complex things and dapps. I really enjoy doing this. 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+wagmi 
 ```
 # Exactly-Token-EXT
