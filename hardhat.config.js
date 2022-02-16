@@ -13,9 +13,6 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
 // You need to export an object to set up your config
 // Go to https://hardhat.org/config/ to learn more
 
-const ALCHEMY_API_KEY = "a00m18qMyK0MRqVBMHR3AGfRAph2iR5H";
-const ROPSTEN_PRIVATE_KEY = "5f3620727334c7d562e03190e0e323e76029a18730b82fae1924da8719d4da3d";
-
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
